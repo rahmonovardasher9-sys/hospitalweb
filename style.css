@@ -127,7 +127,7 @@ a {
   margin: 20px 0px;
 }
 .c {
-  width: 225px;
+  width: 190px;
   padding: 10px;
   border-radius: 5px;
   border: 1px solid rgba(196, 205, 212, 1);
@@ -179,7 +179,7 @@ a {
   position: absolute;
   height: 512px;
   top: -50px;
-  right: 100px;
+  right: 20px;
 }
 .y2 {
   background-color: rgba(241, 245, 248, 1);
@@ -188,7 +188,7 @@ a {
 }
 .u2 {
   display: inline-block;
-  width: 250px;
+  width: 215px;
 }
 .i2 {
   margin: 150px;
